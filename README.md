@@ -1,4 +1,4 @@
-# Hola 👋 , soy Mario Herrera.
+# Hi 👋 , i'm Mario Herrera.
 
 Me llamo Mario aunque también me suelen conocer por Kenflin :computer:. Soy un apasionado del mundo de los videojuegos :space_invader: que actualmente está estudiando un Curso de Especialización de Desarrollo de Videojuegos :video_game: en el instituto [**I.E.S Rafael Alberti**](https://github.com/IES-Rafael-Alberti).
 
@@ -17,7 +17,7 @@ Me llamo Mario aunque también me suelen conocer por Kenflin :computer:. Soy un 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
 </p>
 
-## Contact :postbox:
+## Contact :email:
 
 <p align='center'>
 <a href="https://twitch.tv/Kenflinaso"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
